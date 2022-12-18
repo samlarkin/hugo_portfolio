@@ -1,47 +1,35 @@
 ---
 title: "Now"
-featured_image: "/images/featured_image.jpg"
-date: 2021-04-21T20:29:10+01:00
+date: 2022-12-18
 menu: main
 draft: false
 ---
 
-I'm currently living and working in Bristol, UK.
+I'm currently living and working in Oxford, UK.
 
 
-# Computing
+## Portfolio
 
-## Update 2021-01-04
- 
-Having started off this site with a couple of pages of simple HTML and a CSS
-stylesheet, I've begun reimplementing it using Flask -- a popular lightweight
-web development framework for Python. This gets rid of a lot of boiler-plate
-HTML and makes it very easy to extend the site -- both in terms of content and
-functionality.
-
-I'm also working on a small personal Python project to help me manage my
-personal finances.
-
-The two projects mentioned above have also prompted me to start using 
-[Sphinx](https://sphinx-doc.org) for writing documentation for my personal and
-professional work.
+I'm currently working on developing this site -- using the static site
+generator [Hugo](https://gohugo.io) and [GitHub Pages](https://pages.github.com/) -- to act as personal portfolio.
 
 
-# Reading
+## Data Science Skills Bootcamp
 
-I've just started reading *Inferior* by Angela Saini.
-
-I've recently decided to start taking some notes on what I read - in an
-attempt to remember more of what I take the time to read. I'm trying to catch
-up on what I read last year but in the future I'll try to take notes as I go
-along.
-
-My [reading list](/reading_list) will now contain links to the notes I've
-recorded on each book.
+I'm currently enrolled in a [Department for Education Skills
+Bootcamp](https://www.gov.uk/guidance/find-a-skills-bootcamp) in Data
+Science, provided by [HyperionDev](https://www.hyperiondev.com/). You can see some of the projects I've been
+working on [here](/projects).
 
 
-# Languages
+## Reading
 
-I've been studying Spanish on-and-off for about a year now and I could
-really do with some practice. If you fancy a chat in Spanish, then I'd be more
-than happy to hear from you. *Puede usted [escribirme](/contact) en español también.*
+I'm currently reading *Prisoners of Geography* by Tim Marshall.
+
+
+## Languages
+
+I've been studying Spanish on-and-off for a couple of years now. I've just
+completed an intermediate (CEFR B1) course in Spanish at the University of
+Oxford's [Department for Continuing Education](https://conted.ox.ac.uk) and hope to
+spend some time in Spain over the coming months to help develop my skills.

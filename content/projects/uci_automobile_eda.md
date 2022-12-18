@@ -10,8 +10,7 @@ draft: false
 
 This report outlines the process followed during an Exploratory Data Analysis
 (EDA) of the automobile dataset, as supplied in
-[`automobile.txt`](./automobile.txt) in the same directory as this report. The
-dataset is also available online at
+[`automobile.txt`](./automobile.txt). The dataset is also available online at
 [`http://archive.ics.uci.edu/ml/datasets/Automobile`](http://archive.ics.uci.edu/ml/datasets/Automobile).
 
 The dataset contains data relating to 26 different attributes of 205
