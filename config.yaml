@@ -1,0 +1,28 @@
+baseURL: "http://samlarkin.github.io/"
+languageCode: "en-gb"
+title: "Sam Larkin"
+theme: "hugo-PaperMod"
+
+
+params:
+  profileMode:
+    enabled: true
+    title: "Sam Larkin"
+    subtitle: "Graduate engineer, transport planner and aspiring software developer"
+    imageUrl: "/images/profile.jpg"
+    imageTitle: "Profile picture"
+    imageWidth: 200
+    imageHeight: 200
+
+  socialIcons: # optional
+    - name: github
+      url: "https://github.com/samlarkin"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/samuel-larkin/"
+
+
+menu:
+  main:
+    - identifier: "projects"
+      name: "Projects"
+      url: "/projects/"
