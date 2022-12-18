@@ -113,7 +113,7 @@ The name of the car manufacturer "Alfa Romeo" was misspelled as `alfa-romero`
 in the original dataset. This spelling error was corrected for clarity.
 
 
-## Data Stories and Visualisations
+## Data Exploration
 
 ### Symboling data -- relative risk to insure each vehicle
 
