@@ -1,5 +1,5 @@
 ---
-title: Exploratory Data Analysis on the UCI Automobile Dataset
+title: "Exploratory Data Analysis: UCI Automobile Dataset"
 author: Sam Larkin
 date: 2022-12-08T23:19:26Z
 draft: false
