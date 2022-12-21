@@ -218,7 +218,7 @@ Figure 9 shows the number of COVID-19 cases per 100,000 population for each
 country in the WHO dataset.
 
 As noted in the Missing Data section, the figures not associated with a
-particular country values have been excluded from the maps below.
+particular country have been excluded from the maps below.
 
 Western European countries immediately stand out as having recorded very high numbers of
 cases relative to their populations.
