@@ -18,8 +18,8 @@ generator [Hugo](https://gohugo.io) and [GitHub Pages](https://pages.github.com/
 
 I'm currently enrolled in a [Department for Education Skills
 Bootcamp](https://www.gov.uk/guidance/find-a-skills-bootcamp) in Data
-Science, provided by [HyperionDev](https://www.hyperiondev.com/). You can see some of the projects I've been
-working on [here](/projects).
+Science. You can see some of the projects I've been working on
+[here](/projects).
 
 
 ## Reading
